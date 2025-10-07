@@ -1,5 +1,5 @@
 # @author: Satanu Ghosh
-# This code is adapted by https://github.com/facebookresearch/crystal-text-llm
+# This code is adapted from https://github.com/facebookresearch/crystal-text-llm
 
 
 #### Generic Library Imports ########
