@@ -5,7 +5,7 @@ Author: Satanu Ghosh
 Contents:
 
 - Code for doing distributed SFT with Qunatized LoRA
-- Code for doing distributed DPO with Quantized LoRA
+- Code for doing distributed DPO with Quantized LoRA (to be added)
 
 
 
